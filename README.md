@@ -18,16 +18,18 @@ day13p/<br>
 &nbsp;&nbsp;&nbsp;&nbsp;└── script.js
 
 <br>
+
 # Features
 
 1. DOM Selection
+
 Using various DOM selection methods:
 
-getElementById
-getElementsByClassName
-getElementsByTagName
-querySelector
-querySelectorAll
+- getElementById
+- getElementsByClassName
+- getElementsByTagName
+- querySelector
+- querySelectorAll
 
 2. Event Listeners
 - Handles different types of events:
